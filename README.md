@@ -6,5 +6,5 @@
 ### Sou programador Java 
 ### Gosto de Desenvolvimento Backend 
 
-- 👨‍🎓  &nbsp; Sou graduado em Engenharia da Computação pela [ENIAC](https://www.eniac.com.br/).
+- 👨‍🎓  &nbsp; Sou graduado em Engenharia da Computação pelo [ENIAC](https://www.eniac.com.br/).
 - 👨‍💻 &nbsp; Atualmente trabalho na [Atos Brasil](http://www.atos.net/) como Analista de Sistemas I
