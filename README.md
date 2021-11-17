@@ -10,19 +10,19 @@ Sou Marcos, estudo Análise e Desenvolvimento de Sistemas e tenho experiência n
 - 👨‍💻 &nbsp; Atualmente trabalho na [Atos Brasil](http://www.atos.net/) como Analista de Sistemas I
 
 ### Sobre mim
-- 🌱 atualmente estou aprendendo Spring Boot, Spring Cloud, Microserviços, 
+- 🌱 atualmente estou aprendendo Spring Boot, Spring Cloud, Microserviços, Desenvolvimento de APIs Rest
 - 🎮 apaixonado por jogos Call of Duty e Xadrez
 - 🏞️ faço atividade Física regularmente musculação
 - 🔧 gosto muito de projetos com APIs
 
 ### Objetivos e interesses
 * 💻 desenvolvimento backend
-* ♻️ Microserviços
-* 🎨 Banco de Dados Relacionais e Nosql
-* 🎲 Springboot
+* ♻️ microserviços
+* 🎨 banco de Dados Relacionais e Nosql
+* 🎲 springboot
 
 ### Curiosidades
-* 📺 Já desenvolvi um [microserviço](https://github.com/marcsalexandrborges/ms-course)
+* 📺 Já desenvolvi um [microserviço com JWT, Docker com banco de Dados PostegreSql](https://github.com/marcsalexandrborges/ms-course)
 * 👩‍🎓 Participei da semana spring react  [Foi desenvolvido um aplicativo web usando java com spring boot no backend e TypeScrip com React no frontend](https://lnkd.in/ggYgnMs/store/apps/details?id=co.ratto.spellswords&hl=pt_PT&gl=US)
 
   
