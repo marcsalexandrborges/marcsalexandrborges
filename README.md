@@ -30,7 +30,7 @@ Sou Marcos, estudo Análise e Desenvolvimento de Sistemas e tenho experiência n
 <div>
   <a href="https://github.com/marcsalexandrborges">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=marcsalexandrborges&show_icons=false&&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcsalexandrborges&layout=compact&langs_count=6&hide=asp,xslt,glsl,shaderlab,html,css,php,c,java"/> <!-- c%2B%2B -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcsalexandrborges&layout=compact&langs_count=6&hide=asp,xslt,glsl,shaderlab,php,c"/> <!-- c%2B%2B -->
 </div>
 
 <!--
