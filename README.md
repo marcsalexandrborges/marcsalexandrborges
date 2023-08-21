@@ -1,13 +1,13 @@
 
 
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://marcos-barbosa-0a95b346/?igshid=1o9uhlz6bqs4s)](https://www.linkedin.com/in/marcos-barbosa-0a95b346/?igshid=1o9uhlz6bqs4s) 
-[![Gmail Badge](https://img.shields.io/badge/-marcos.barbosa@atos.net-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.barbosa@atos.net)](mailto:marcos.barbosa@atos.net)
+[![Gmail Badge](https://img.shields.io/badge/-marcsalexandr@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcsalexandr@gmail.com)](mailto:marcsalexandr@gmail.com)
 
 ### Olá, 👋
 Sou Marcos, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na área de desenvolvimento com java. Atualmente estou focado em aprender sobre desenvolvimento backend e suas tecnologias.
 
 - 👨‍🎓  &nbsp; Sou graduado em Engenharia da Computação pelo [ENIAC](https://www.eniac.com.br/).
-- 👨‍💻 &nbsp; Atualmente trabalho na [Atos Brasil](http://www.atos.net/) como Analista de Sistemas I
+- 👨‍💻 &nbsp; Atualmente estou a procura de uma nova oportunidade de trabalho
 
 ### Sobre mim
 - 🌱 atualmente estou aprendendo Spring Boot, Spring Cloud, Microserviços, Desenvolvimento de APIs Rest
@@ -24,7 +24,6 @@ Sou Marcos, estudo Análise e Desenvolvimento de Sistemas e tenho experiência n
 ### Curiosidades
 * 📺 Já desenvolvi um [microserviço com JWT, Docker com banco de Dados PostegreSql](https://github.com/marcsalexandrborges/ms-course)
 * 👩‍🎓 Participei da semana spring react  [Foi desenvolvido um aplicativo web usando java com spring boot no backend e TypeScrip com React no frontend](https://lnkd.in/ggYgnMs/store/apps/details?id=co.ratto.spellswords&hl=pt_PT&gl=US)
-
   
 ## Estatísticas
 <div>
