@@ -1,6 +1,6 @@
 
 
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://marcos-barbosa-0a95b346/?igshid=1o9uhlz6bqs4s)](https://www.linkedin.com/in/marcos-barbosa-0a95b346/?igshid=1o9uhlz6bqs4s) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://marcos-barbosa-0a95b346/?igshid=1o9uhlz6bqs4s)](https://www.linkedin.com/in/marcos-barbosa-0a95b346/?igshid=1o9uhlz6bqs4s) 
 [![Gmail Badge](https://img.shields.io/badge/-marcsalexandr@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcsalexandr@gmail.com)](mailto:marcsalexandr@gmail.com)
 
 ### Olá, 👋
