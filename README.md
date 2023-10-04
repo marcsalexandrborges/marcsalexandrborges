@@ -1,48 +1,31 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/seu-linkedin/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:seu-email@gmail.com)
 
+# Olá, 👋
+Sou Marcos, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na área de desenvolvimento com Java. Atualmente estou focado em aprender sobre desenvolvimento backend e suas tecnologias.
 
- [![Linkedin Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://marcos-barbosa-0a95b346/?igshid=1o9uhlz6bqs4s)](https://www.linkedin.com/in/marcos-barbosa-0a95b346/?igshid=1o9uhlz6bqs4s) 
-[![Gmail Badge](https://img.shields.io/badge/-marcsalexandr@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcsalexandr@gmail.com)](mailto:marcsalexandr@gmail.com)
+- 👨‍🎓 Graduado em Engenharia da Computação pelo [ENIAC](https://www.eniac.com.br/).
+- 👨‍💻 Atualmente estou em busca de uma nova oportunidade de trabalho.
 
-### Olá, 👋
-Sou Marcos, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na área de desenvolvimento com java. Atualmente estou focado em aprender sobre desenvolvimento backend e suas tecnologias.
+## Sobre mim
+- 🌱 Atualmente, estou aprendendo Spring Boot, Spring Cloud, Microserviços e Desenvolvimento de APIs REST.
+- 🎮 Apaixonado por jogos como Call of Duty e Xadrez.
+- 🏞️ Pratico atividade física regularmente, incluindo musculação.
+- 🔧 Gosto muito de trabalhar em projetos envolvendo APIs.
 
-- 👨‍🎓  &nbsp; Sou graduado em Engenharia da Computação pelo [ENIAC](https://www.eniac.com.br/).
-- 👨‍💻 &nbsp; Atualmente estou a procura de uma nova oportunidade de trabalho
+## Objetivos e Interesses
+* 💻 Desenvolvimento backend.
+* ♻️ Microserviços.
+* 🎨 Bancos de Dados Relacionais e NoSQL.
+* 🎲 Spring Boot.
 
-### Sobre mim
-- 🌱 atualmente estou aprendendo Spring Boot, Spring Cloud, Microserviços, Desenvolvimento de APIs Rest
-- 🎮 apaixonado por jogos Call of Duty e Xadrez
-- 🏞️ faço atividade Física regularmente musculação
-- 🔧 gosto muito de projetos com APIs
+## Projetos Notáveis
+* 📺 Desenvolvi um [microserviço com JWT, Docker e banco de dados PostgreSQL](https://github.com/marcsalexandrborges/ms-course).
+* 👩‍🎓 Participei da semana Spring React, onde desenvolvemos um aplicativo web usando Java com Spring Boot no backend e TypeScript com React no frontend.
 
-### Objetivos e interesses
-* 💻 desenvolvimento backend
-* ♻️ microserviços
-* 🎨 banco de Dados Relacionais e Nosql
-* 🎲 springboot
-
-### Curiosidades
-* 📺 Já desenvolvi um [microserviço com JWT, Docker com banco de Dados PostegreSql](https://github.com/marcsalexandrborges/ms-course)
-* 👩‍🎓 Participei da semana spring react  [Foi desenvolvido um aplicativo web usando java com spring boot no backend e TypeScrip com React no frontend](https://lnkd.in/ggYgnMs/store/apps/details?id=co.ratto.spellswords&hl=pt_PT&gl=US)
-  
 ## Estatísticas
 <div>
   <a href="https://github.com/marcsalexandrborges">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=marcsalexandrborges&show_icons=false&&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=marcsalexandrborges&show_icons=false&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcsalexandrborges&layout=compact&langs_count=6&hide=asp,xslt,glsl,shaderlab,php,c"/> <!-- c%2B%2B -->
 </div>
-
-<!--
-**marcsalexandrborges/marcsalexandrborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
